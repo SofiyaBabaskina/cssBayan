@@ -1,0 +1,9 @@
+body {
+    background: rgb(231, 224, 237);
+}
+
+.container {
+    width: 800px;
+    margin: 20%;
+    text-align: center;
+}
